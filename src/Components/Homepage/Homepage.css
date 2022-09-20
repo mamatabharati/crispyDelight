@@ -1,0 +1,147 @@
+.homepageImg{
+    width:100%;
+    height: 76vh;
+}
+
+.imgSection{
+    position: relative;
+    text-align:center;
+    
+}
+
+.textOnImage{
+    position: absolute;
+    top: 40%;
+    padding-left: 14%;
+    padding-right: 12%;
+    color:rgb(255, 255, 255);
+    font-family: 'Dancing Script', cursive;
+ 
+}
+
+@media (min-width: 701px) {
+    div.textOnImage{
+        font-size: 70px;  
+        padding-bottom: 10px; 
+        line-height: 2cm;
+        top:35%;
+    }
+  }
+    
+  @media (max-width: 500px) {
+    div.textOnImage{
+        top: 19%; 
+        font-size: 50px;
+        line-height: 1.5cm;
+     
+    }     
+}
+/* 
+ .homeBtn{
+    position: absolute;
+    background-color: transparent;
+    padding:9px 17px;
+    color:rgb(158, 34, 34);
+    border-color: aliceblue;
+    bottom:30%;
+ }
+ @media (min-width: 00px) {
+    .homeBtn{
+        bottom: 30%;
+        left: 45%;
+       
+    }
+}
+@media (max-width: 701px) {
+    .homeBtn{
+        bottom: 20px;
+        left: 35%;
+        padding:6px 14px;
+    }
+} */
+
+/* we serve section */
+
+.title{
+   margin-top:6% ;
+   margin-bottom: 3%;
+   text-align: center;
+   font-size: 40px;
+   font-family: 'Dancing Script', cursive;
+   color:rgb(12, 12, 12);
+}
+
+.col-4{
+    flex:20%;
+    min-width: 210px;
+    /* margin-bottom:3%; */
+    transition:transform 0.5s;
+    padding:0 10px;
+    
+}
+.col-4:hover{
+    transform:translateY(-5px);
+}
+.col-4 img{
+    width:100%;
+    height:55%;
+    box-shadow: 0 0 90px 0px rgba(0,0,0,0.1);
+    padding:0 5px;
+}
+
+.col-4 h4{
+    padding-top: 6px;
+}
+
+/* about us section */
+
+.aboutUsDiv{
+    padding-top:60px ;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color:rgb(255, 236, 202);
+    padding-bottom: 95px;
+}
+
+.imageDiv{
+    height:20rem !important;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top: 40px;
+    width:100%;
+}
+
+.text_Div{
+    margin-left: 5%;
+    margin-right: 5%;
+    color:black;
+}
+
+#aboutHeading{
+    margin-top: 70px;
+    font-size: 2.5rem;
+    padding-bottom: 15px;
+   font-family: 'Dancing Script', cursive;
+    text-align:center;
+}
+
+/* gallery */
+
+.mainGalleryDiv{
+margin-bottom: 6%;
+margin-top: 5%;
+}
+
+.galleryDiv{
+padding-left: 7%;
+padding-right: 7%;
+}
+
+#galleryHeading{
+    
+    font-size: 2.5rem !important;
+    padding-bottom: 15px;
+   font-family: 'Dancing Script', cursive;
+    text-align:center;
+
+}

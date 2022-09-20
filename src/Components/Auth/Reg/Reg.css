@@ -1,0 +1,29 @@
+.regDiv{
+  margin:4% 7%;
+  height:550px;
+  color:rgb(8, 8, 8);
+}
+
+.label_text{
+    text-align: left !important;
+}
+
+#regHeading{
+    color:rgb(12, 12, 12);
+    font-family: 'Dancing Script', cursive;
+     text-align: center;
+     font-size: 2.5rem !important;
+     padding-bottom: 15px;
+}
+
+.regButton{
+    background-color:orange;
+    padding:6px 20px;
+    border-radius: 12px;
+    border-color: orange;;
+}
+
+.gif{
+    left:0;
+    top:50%;
+}

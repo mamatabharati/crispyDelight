@@ -1,0 +1,33 @@
+.login{
+    font-size: 40px;
+    padding-top:30px ;
+    padding-bottom: 10px;
+   /* background-image:linear-gradient(45deg,#f3ec78,#af4261); */
+   font-family: 'Dancing Script', cursive;
+   margin-bottom: 40px;
+   display: block;
+}
+
+.regInput{
+    padding:10px 30px;
+    font-size: larger;
+    border-radius: 12px;
+    border-color: rgb(253, 190, 72);
+    background-color: transparent;
+}
+
+.regBtn{
+    padding:10px 112px ;
+    border-radius: 12px;
+    margin-bottom: 100px;
+    background-color: orange;
+    color:rgb(0, 0, 0);
+    font-size: larger;
+    border-color: transparent;
+}
+
+.regBtn:hover{
+    border-radius:none;
+    border-color: rgb(119, 30, 30);
+    box-shadow: 2px solid black;
+}

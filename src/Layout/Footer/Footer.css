@@ -1,0 +1,38 @@
+.footerContainer{
+    background-color: rgb(2, 4, 7);;
+    padding:10px 40px;
+    text-align: center;
+    color:aliceblue;
+}
+
+.icon{
+    margin-right: 7px;
+    height:20px !important;
+    
+}
+
+.icon:hover{
+    color:orange;
+}
+
+.footerTitle{
+    margin-top:7% ;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    
+ }
+ 
+ .subFooter{
+     margin-top: 20px;
+     flex:20%;
+     min-width: 250px;
+     margin-bottom:30px;
+ }
+
+.lowerFooter{
+    padding:20px 0px;
+    background-color: rgb(10, 10, 10);
+    color:rgb(158, 159, 160);
+    text-align:center;
+}

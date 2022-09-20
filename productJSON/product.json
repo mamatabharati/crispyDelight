@@ -1,0 +1,88 @@
+{
+    "product":[
+        {
+            "pimage":"Images/bhature.jfif",
+            "pname":"Chole Bhature",
+            "pdesc":"A combination of chana masala (spicy white chickpeas) and bhatura / puri, a deep-fried bread made from maida.",
+            "pprice":"200",
+            "id":1
+        },
+        {
+            "pimage":"Images/pulao.jfif",
+            "pname":"Veg Pulao",
+            "pprice":"120",
+            "pdesc":"A spicy rice dish prepared by cooking rice with various vegetables and spices. The uniqueness of this easy mixed vegetable pulao recipe lies in use of bay leaf, cinnamon and cloves which provides nice and complex aromatic feel that simply makes juices flowing in mouth.",
+            "id":2
+        },
+        {
+            "pimage":"Images/idli.jpg",
+            "pname":"Idli",
+            "pdesc":"A steamed food, made with with a fermented batter of rice, urad dal and fenugreek seeds. White and fluffy, it is a delight to bite into.",
+            "pprice":"130",
+            "id":3
+        },
+        {
+            "pimage":"Images/samosa.png",
+            "pname":"Samosa",
+            "pdesc":"A fried pastry with a savory filling, including ingredients such as spiced potatoes, onions, and peas.",
+            "pprice":"30",
+            "id":4
+        },
+        {
+            "pimage":"Images/Khaman Dhokla___.jfif",
+            "pname":"Khaman Dhokla",
+            "pdesc":"A nutritious Indian food with a base of fermented chickpea batter and rice",
+            "pprice":"190",
+            "id":5
+        },
+        {
+            "pimage":"Images/starter1.jfif",
+            "pname":"Paneer Tikka",
+            "pdesc":"A dish made from chunks of paneer marinated in spices and grilled in a tandoor. It is a vegetarian alternative to chicken tikka and other meat dishes",
+            "pprice":"110",
+            "id":6
+        },
+        {
+            "pimage":"Images/lemonade.jfif",
+            "pname":"Lemonade",
+            "pdesc":"A lime-flavored drink sweetened with honey cyrup.",
+            "pprice":"80",
+            "id":7
+        },
+        {
+            "pimage":"Images/aboutUs.jfif",
+            "pname":"Veg Cutlet",
+            "pdesc":"A simple mashed and spiced vegetable patty that is dipped in batter, later dredged in bread crumbs and fried in oil.",
+            "pprice":"90",
+            "id":8
+        }, {
+            "pimage":"Images/halwa.jpg",
+            "pname":"Halwa",
+            "pdesc":"An Indian pudding made with sugar, ghee, flour and nuts",
+            "pprice":"270",
+            "id":9
+        }, {
+            "pimage":"Images/sharbat.jfif",
+            "pname":"Strawberry drink",
+            "pdesc":"An easy and delicious drink made with strawberry syrup infused with real strawberries for the purest flavor. ",
+            "pprice":"100",
+            "id":10
+        },
+        {
+            "pimage":"Images/dosa.jfif",
+            "pname":"Mixed Lentil Dosa",
+            "pdesc":"A thin pancake or crepe made from a fermented batter predominantly consisting of lentils and rice.",
+            "pprice":"200",
+            "id":11
+        },
+        {
+            "pimage":"Images/Lassi.jfif",
+            "pname":"Lassi",
+            "pdesc":"A blend of yogurt, water, spices and fruit.",
+            "pprice":"110",
+            "id":12
+        }
+         
+
+    ]
+}

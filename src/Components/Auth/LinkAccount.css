@@ -1,0 +1,22 @@
+.linkDiv{
+    height:80vh;
+    background-color: blanchedalmond;
+}
+
+#linkHeading{
+    font-size: 60px;
+    padding-top: 10%;
+    padding-bottom: 3%;
+}
+
+.linkBtn{
+    padding:10px 50px;
+    background-color: rgb(255, 205, 112);
+    border-radius: 20px;
+    color:rgb(8, 8, 8);
+    font-weight: 600;
+}
+
+.linkBtn:hover{
+    background-color:rgb(250, 189, 76); ;
+}
